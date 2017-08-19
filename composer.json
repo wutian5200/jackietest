@@ -1,0 +1,16 @@
+{
+    "name": "jackie/hasher",
+    "authors": [
+        {
+            "name": "jackie",
+            "email": "myrooyun@163.com"
+        }
+    ],
+    "minimum-stability":"dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tencentIm\\Hasher\\": "src/"
+        }
+    }
+}
